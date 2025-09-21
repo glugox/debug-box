@@ -1,0 +1,19 @@
+{
+    "name": "glugox/debug-box",
+    "description": "Customized dev tools right in your app while in development mode",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Glugox\\DebugBox\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ervin",
+            "email": "ervinbeciragic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
